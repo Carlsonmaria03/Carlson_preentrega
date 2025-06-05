@@ -1,0 +1,17 @@
+{
+  "name": "carlson_preentrega",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlson, María",
+  "license": "ISC",
+  "description": "Proyecto integrador Node.js para consultar, crear y eliminar productos usando la API FakeStore desde la terminal.",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
